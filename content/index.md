@@ -9,3 +9,6 @@ I am:
 * a creator who will learn any tool to get the job done
 
 This is where I write what I'm learning about.
+
+twitter/x: https://x.com/euvinkeel
+linkedin: https://www.linkedin.com/in/euvin-k-41887825a/
