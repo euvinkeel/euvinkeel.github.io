@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 I had random generations and random constraints being put on a board, but now I have to guarantee that exactly one answer exists so it is actually possible to solve from the starting configuration: to fill the board without rule violations.
 
