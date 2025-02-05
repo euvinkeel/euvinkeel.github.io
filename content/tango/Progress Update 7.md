@@ -40,6 +40,7 @@ I had to ensure generating boards didn't interrupt the animation too much. So to
 
 ![[vivaldi_87Uj9INqkF.gif]]
 
-This blogpost is getting too long, so I'll just leave this with two different renderings working on the same board:
+
+I'll just leave this update post with two different renderings working on the same board:
 
 ![[vivaldi_L2oVEZxyvN.gif]]
