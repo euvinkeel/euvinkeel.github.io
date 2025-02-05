@@ -1,8 +1,6 @@
 ---
-draft: true
+draft: false
 ---
-
-
 I already have TangoHTML (will probably take some refactoring), and I think Tangomoji will be pretty trivial. So for now, I need to learn the best way to make TangoRive.
 
 I tried to visualize what specific animations I wanted.
@@ -23,11 +21,9 @@ so what does all of this imply?
 * I'll use rive files for each tile
 	* tiles must track react to changes on some consistent coordinate they're assigned to
 
-
 I understand that the way to animate stuff programmatically with JS is to change the CSS style, but I was wondering what would be the most performant. Changing CSS properties by making a template string and then assigning a string that has to be parsed in the background just doesn't sit well with me, when I'm used to setting strict numbers to move things around. Why am I typing out the string "transform:" to set numeric values?
 
-
-Anyway, because I really like using springs for smooth animations, I looked into react-spring. Reading documentations for libraries that you've sort of worked with in a completely different context can be a challenge because you're trying to re-wire all of your assumptions. That said, I found really cool example projects that I could learn from.
+Anyway, because I really like using springs for smooth animations, I looked into react-spring. Reading documentations for libraries that you've sort of worked with in a completely different context can be a challenge because you're trying to re-wire all of your assumptions. That said, I found example projects that I could learn from.
 
 https://codesandbox.io/p/sandbox/mdovb?file=%2Fsrc%2FuseMedia.ts%3A6%2C27
 
@@ -39,59 +35,7 @@ This board should be responsive to its container's size and smoothly resize itse
 
 https://www.npmjs.com/package/react-use-measure
 
-this is how i want to call stuff:
-
-```typescript
-cosnt api = TangoTS(
-	onWin: (timeElapsed: number) => {
-		console.log(`wow, congrats for finishing in ${timeElapsed} seconds!`);
-	},
-	onChange: (boardState: BoardState) => {
-		if (analyzeBoardForSpecificPattern(boardState)) {
-			console.log("There's a pattern!");
-		}
-	},
-	config: {
-		isCoveredBeforeStart: true,
-		rows: 6,
-		columns: 6,
-		enableTimer: true,
-	}
-)
-
-// if the site ever wants to present a new challenge, it's exposed through setNewBoard
-api.setNewBoard({
-	rows: 4,
-	columns: 4,
-	constraints: [ ... ]
-	tiles: [ ... ]
-});
-
-// or it can demonstrate stuff.
-api.changeBoardTiles(
-	[
-		[[2,1], TileIconType.SUN],
-		[[1,1], TileIconType.MOON],
-		[[5,5], TileIconType.MOON],
-	]
-)
-
-// it can also expose its regenerate or reset functions
-api.regenerate();
-api.reset();
-
-// and it may give rewards upon winning within the board with the passed in callback to `onWin`
-
-// to render in app...
-<TangoRive tangoTsApi={api}/>
-// the api should have these
-
-tangoTsApi.setWinCallback(() => {
-	// animation code here
-})
-
-```
-
+More reading:
 
 https://labs.factorialhr.com/posts/hooks-considered-harmful
 https://www.zhenghao.io/posts/memo-or-not
