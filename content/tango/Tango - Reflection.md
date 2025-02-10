@@ -1,11 +1,12 @@
 ---
 draft: false
 ---
-
+```
 Started: January 24, 2025
 Ended: February 7, 2025
 Duration: 14 days
 Link: https://euvinkeel.github.io/tango-trainer
+```
 
 # tl;dr
 * The project was a (successful) first step at creating + finishing something in public.
