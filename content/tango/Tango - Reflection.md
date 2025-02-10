@@ -19,18 +19,18 @@ It began how most of my projects start: I notice a pain point, no matter how tri
 
 When I first set out to make this, I really just needed a push to code something again. It had been a while since I sat down and tried to complete a full project, so I thought that recreating one of my favorite morning routines (playing LinkedIn's games) would be a simple & quick way to de-rust. More importantly, the only [other site](https://tangogame.org) that offers an infinite-mode version of the game had some issues with it. At the time, changing the puzzles sometimes resulted in tiles not responding to clicks, I had to refresh the page sometimes, the board was too visually different from the original, and it wasn't actually infinite (there are 100 pre-set boards).
 
-Overall, I'm pretty happy with how it runs and looks. There are optimizations to be made: notably, the backtracking algorithm used to generate random boards & the way each individual rive instance loads. There could be more features, like open sourcing the TangoTS module, making it *actually* modular and portable, high scores, ELO rankings...
+Overall, I'm pretty happy with how it runs and looks. There are optimizations to be made: notably, the backtracking algorithm used to generate random boards & the way each individual Rive instance loads. There could be more features, like open sourcing the TangoTS module, making it *actually* modular and portable, high scores, ELO rankings...
 
 But I'll leave the project as it is right now. As time went on, I think I became unsatisfied with what exactly I was learning.
 
 
 # Learnings
 
-This project forced me to dive right in to new tools.
+This project forced me to dive right into new tools.
 
 Rive, despite all the struggles I had with it, has become really attractive to me for creating animated graphics and putting that polish & shine on things. As someone with experience with DaVinci Resolve and Blender, I really appreciate a proper visual editor for getting animated graphics just right. 
 
-I also found myself reaching for tailwind for really quick styling iteration, and the v4 release has been such a nice step away from wrangling config files.
+I also found myself reaching for Tailwind for really quick styling iteration, and the v4 release has been such a nice step away from wrangling config files.
 
 The more I become accustomed to these, the faster I can make stuff happen. The more I become accustomed to common problems, the faster I can skip through them and get to the juicy parts of a project.
 
@@ -63,5 +63,6 @@ But when you are a part of a specialized & self-led community, things can get so
 
 
 For the next few weeks, I'm going to join a passionate crowd in the field of AI/ML and see where it takes me. I'll try to stop limiting myself and *really* stretch myself intellectually.
+
 
 We'll see what the next reflection post looks like!
