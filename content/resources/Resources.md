@@ -11,3 +11,6 @@ https://paulgraham.com/greatwork.html
 
 # Unfolding
 https://www.henrikkarlsson.xyz/p/unfolding
+
+# The state of AI for hand-drawn animation inbetweening
+https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html
