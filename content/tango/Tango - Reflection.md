@@ -17,7 +17,7 @@ Link: https://euvinkeel.github.io/tango-trainer
 # Inspiration
 It began how most of my projects start: I notice a pain point, no matter how trivial, and begin to think about how I could solve it.
 
-When I first set out to make this, I really just needed a push to code something again. It had been a while since I sat down and tried to complete a full project, so I thought that recreating one of my favorite morning routines (playing LinkedIn's games) would be a simple, quick way to de-rust. More importantly, the only [other site](https://tangogame.org) that offers an infinite-mode version of the game had some issues with it. At the time, changing the puzzles sometimes resulted in tiles not responding to clicks, I had to refresh the page sometimes, the board was too visually different from the original, and it wasn't actually infinite (there are 100 pre-set boards).
+When I first set out to make this, I really just needed a push to code something again. It had been a while since I sat down and tried to complete a full project, so I thought that recreating one of my favorite morning routines (playing LinkedIn's games) would be a simple & quick way to de-rust. More importantly, the only [other site](https://tangogame.org) that offers an infinite-mode version of the game had some issues with it. At the time, changing the puzzles sometimes resulted in tiles not responding to clicks, I had to refresh the page sometimes, the board was too visually different from the original, and it wasn't actually infinite (there are 100 pre-set boards).
 
 Overall, I'm pretty happy with how it runs and looks. There are optimizations to be made: notably, the backtracking algorithm used to generate random boards & the way each individual rive instance loads. There could be more features, like open sourcing the TangoTS module, making it *actually* modular and portable, high scores, ELO rankings...
 
@@ -62,6 +62,6 @@ I've been deeply missing a sense of community and rivalry in what I do and what 
 But when you are a part of a specialized & self-led community, things can get so much more enjoyable and engaging. Every step you take is more shareable, relevant, interesting to others.
 
 
-For the next few weeks, I'm going to join a passionate crowd in the field of AI/ML and see where it takes me. I'm try to stop limiting myself and *really* stretch myself intellectually.
+For the next few weeks, I'm going to join a passionate crowd in the field of AI/ML and see where it takes me. I'll try to stop limiting myself and *really* stretch myself intellectually.
 
 We'll see what the next reflection post looks like!
