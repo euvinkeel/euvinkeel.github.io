@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ```
 Started: January 24, 2025
@@ -62,7 +62,9 @@ I've been deeply missing a sense of community and rivalry in what I do and what 
 But when you are a part of a specialized & self-led community, things can get so much more enjoyable and engaging. Every step you take is more shareable, relevant, interesting to others.
 
 
-For the next few weeks, I'm going to join a passionate crowd in the field of AI/ML and see where it takes me. I'll try to stop limiting myself and *really* stretch myself intellectually.
+For the next few weeks, I'm going to try to join a passionate crowd in MathAcademy and see where it takes me. Maybe I'll write about what I think of the platform, what I get out of it. (I really like the idea of being trained by an AI -- I think we could use more of that in a lot of places.)
+
+That's probably not enough of a goal in itself... I'm still thinking about what I'd like to actually create/develop.
 
 
 We'll see what the next reflection post looks like!
