@@ -11,6 +11,6 @@ I am:
 This is where I write what I'm learning about.
 
 
-twitter/x: https://x.com/euvinkeel
+twitter/x: https://x.com/euvin_keel
 
 linkedin: https://www.linkedin.com/in/euvin-k-41887825a/
