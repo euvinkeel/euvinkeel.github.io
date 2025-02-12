@@ -49,8 +49,6 @@ Earlier this year, I joined an online community where others share their own lea
 
 I've always thought that I couldn't pursue such specialized, "hard" fields. Sure, I passed all my computer science university courses just fine -- and those involved lots of math -- but I only learned enough to pass the exams, never enjoyed them, and certainly never retained them after the quarter was over.
 
-Furthermore, I'm not confident that I could pursue it for a livelihood if I'm not already a graduate student in the field. What use would it be for me to join a race where others have already covered miles? Even if I did re-learn theorems and what a Jacobian is, would that be helpful or relevant in my career? What *do* I want in a career?
-
 
 
 The above would have been enough for me to write off going back into hard subjects if it wasn't for the community aspect.
