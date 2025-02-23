@@ -11,4 +11,5 @@ Plus, maybe I can use some hard math in the process of designing it?
 I made a bunch of random assets in Blender in preparation to quickly prototype the game:
 
 ![[Pasted image 20250223124412.png]]
+![[Pasted image 20250223143715.png]]
 
