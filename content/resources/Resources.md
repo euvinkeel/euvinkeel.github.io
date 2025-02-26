@@ -18,3 +18,5 @@ https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.ht
 # Fun won't get it done
 https://yosefk.com/blog/fun-wont-get-it-done.html
 
+# Moving Cities Won't Solve Your Problems
+https://www.youtube.com/watch?v=z--KnR8bA-0
