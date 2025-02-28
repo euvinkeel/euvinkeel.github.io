@@ -1,5 +1,14 @@
 Random videos or articles I read and learn from.
 
+## Write to Escape Your Default Setting
+https://kupajo.com/write-to-escape-your-default-setting/
+
+# Death of the Follower & The Future of Creativity
+https://www.youtube.com/watch?v=5zUndMfMInc
+
+# Moving Cities Won't Solve Your Problems
+https://www.youtube.com/watch?v=z--KnR8bA-0
+
 ## Obsidian: The Good Parts
 https://www.youtube.com/watch?v=B0yAy2j-9V0
 
@@ -18,9 +27,4 @@ https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.ht
 # Fun won't get it done
 https://yosefk.com/blog/fun-wont-get-it-done.html
 
-# Moving Cities Won't Solve Your Problems
-https://www.youtube.com/watch?v=z--KnR8bA-0
-
-# Death of the Follower & The Future of Creativity
-https://www.youtube.com/watch?v=5zUndMfMInc
 
