@@ -20,3 +20,7 @@ https://yosefk.com/blog/fun-wont-get-it-done.html
 
 # Moving Cities Won't Solve Your Problems
 https://www.youtube.com/watch?v=z--KnR8bA-0
+
+# Death of the Follower & The Future of Creativity
+https://www.youtube.com/watch?v=5zUndMfMInc
+
