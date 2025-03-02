@@ -45,18 +45,12 @@ Use cases for PIDs are mostly "optimistic updates", or the existence of an entit
 * if someone shoots a bullet, it must become rendered immediately
 
 ## Action
-* An **action*** can refer to:
-	* its **owner**: the player entity that sent the action. If it's 0, it originated from the server. Or maybe the server can have its own SID. Who knows
-	* its **struct representation**: its name, owner SID, and the arguments associated with it (can be basic data or refer to other SIDS/PIDS)
+* An **action** can refer to:
+	* its **struct representation**: its name, owner SID (0 if called on the server), and the arguments associated with it (can be basic data or refer to other SIDS/PIDS)
 	* its **mutation**: a callback to execute a semantic mutation in shared JECS state (as opposed to a non-semantic snapshot), stored in a lookup module
 		* If the action creates entities on the server, calling it should return new SIDs.
 		* If the action creates entities on the client, calling it should return the new local entity & new PIDs.
-		* a created entity on the server must return the original SID
-		* but on the client it must return the PID and the local ID...
-		* for the client, they should be able to pass in 
-			* the SID must be negative to indicate it is not the local id
-			* the PID must be positive
-			* clients can just pass in the PID as normal along with their other regular local ids, and the SID must be translated in the background by the engine running mutate: this must be 
+		* should integrate cleanly with system code without a thought about replication (just don't call it too much idk): if it makes an entity, then it returns a local id to use. (but it assigns SID/PIDs in the background n stuff)
 	* its **validation**: code that looks at the JECS world state and determines if this action mutation is allowed to happen, also stored in a lookup module
 	* its **event**: whenever the action is called locally or received from the outside, it should emit an event (passing out the struct) so game systems can hook onto each call regardless of where the event came from
 
