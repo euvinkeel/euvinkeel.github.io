@@ -28,15 +28,15 @@ I want a replication system that does not rely on the Roblox Datamodel; just JEC
 # Terms
 To use my own terms:
 ## SID
-* An **SID** stands for **server identifier** (or **shared identifier**) - a `i32` identifier for an entity that exists on the server and is replicated to all clients.
-	* The real entity on the server's world **is equivalent** to the positive SID, giving us `2147483647` possible SIDs.
+* An **SID** stands for **server identifier** (or **shared identifier**) - a `i32` (negative sign) identifier for an entity that exists on the server and is replicated to all clients.
+	* The real entity on the server's world **is negated** to get the SID, giving us `2147483648` possible SIDs.
 	* The corresponding entity on a client's world **is not equivalent** to the SID. If it is a shared entity, the SID is accessed via an `SID` component.
 
 Obvious use cases are player and character entities that must be present in everyone's JECS worlds. Others include NPCs, enemies, coins, etc.
 
 ## PID
-* A **PID** stands for **pending identifier** (or **personal identifier**) - a `i32` temporary identifier for an entity that is created on the client and is *pending approval* from the server to become replicated, hopefully being promoted to a shared entity.
-	* The real entity on a client's world **is equivalent** to the negative PID, giving us `2147483648` possible PIDs.
+* A **PID** stands for **pending identifier** (or **personal identifier**) - a `i32` (positive sign) temporary identifier for an entity that is created on the client and is *pending approval* from the server to become replicated, hopefully being promoted to a shared entity.
+	* The real entity on a client's world **is equivalent** to the PID, giving us `2147483647` possible PIDs.
 	* If accepted by the server, the server will have made its own counterpart and responded with a new SID.
 	* If rejected by the server, the server will include this in response and the client will despawn the pending entity.
 
@@ -134,7 +134,7 @@ On a client's replication tick, the client looks in its outgoing queue of **stru
 The client sends out the following together:
 * The list of structs in order
 * `AffectedSIDs`
-* `AffectedPIDs`
+* `CreatedPIDs`
 
 ## Server
 
