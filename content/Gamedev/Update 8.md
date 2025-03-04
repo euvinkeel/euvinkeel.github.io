@@ -24,3 +24,6 @@ I'll just leave this very simple diagram of my setup here.
 Probably the jankiest thing I've ever done, and I had some help getting started with ChatGPT and this really neat tool to even begin getting a sense of traversing things: https://ts-ast-viewer.com/
 
 Big thanks to [ts-morph](https://ts-morph.com)!
+
+
+I also spent some time playing Brickadia's open demo, and it's mind boggling how much detail and interactivity that could happen in a multiplayer physics-simulated world. Their [technical blogs](https://brickadia.com/blog/devlog-3/) are [a pretty good read.](https://brickadia.com/blog/devlog-4/)
