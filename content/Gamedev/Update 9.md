@@ -18,11 +18,9 @@ the past few (several) days (weeks) have been me designing a way to represent th
 
 naturally i wrote a lot and overthought a lot
 
-![[Pasted image 20250308001115.png]]
+![[Pasted image 20250308002604.png]]
 
 these are all probably solved problems, but for the tools and code i use i just had to reinvent a lot of stuff. i could make it so much more efficient (that's the next step) but it's so good to see things work
-
-![[Pasted image 20250308001530.png]]
 
 also [clumsy](https://jagt.github.io/clumsy/) is a cool tool to ensure your tests undergo some really rough times
 
