@@ -25,6 +25,6 @@ Apparently there was a bug that broke one of the API methods which threw a wrenc
 
 Eventually I had a small reproducible example (couldn't tell you how the bug happens, it just does -- the library is super dense and optimized for performance after all) and I reduced it down to the version of the library I was using. Though, even if I did use earlier versions of JECS and applied my own hacky fix on top of the API, I'd still get the same issues except even more hidden and worse than if it had just failed outright. which i don't feel like typing all out
 
-I opened a github issue. The nature of the bug honestly kind of stops all development effort on this front, because it violates pretty fundamental features of the library. I'll wait and see, maybe I could help contribute and really get into the nitty gritty of the bitwise math they're doing so I can actually suggest fixes.
+I opened a github issue. Maybe I could help contribute and really get into the nitty gritty of the bitwise math they're doing so I can actually suggest fixes.
 
 i need to get gud at low level bit stuff
