@@ -1,5 +1,8 @@
 Random videos or articles I read and learn from.
 
+## Data-Oriented Design
+https://www.dataorienteddesign.com/dodbook/node2.html
+
 ## Making the most of ECS identifiers
 https://ajmmertens.medium.com/doing-a-lot-with-a-little-ecs-identifiers-25a72bd2647
 
