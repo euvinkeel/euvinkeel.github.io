@@ -1,5 +1,8 @@
 Random videos or articles I read and learn from.
 
+## Advice on Upskilling
+https://docs.google.com/document/d/17qFY5w9uEWL4VVyJSTEmSSRyvegh_Y4N6NMSxwCmGaE/edit?tab=t.0#heading=h.y5yu3dg86jey
+
 ## Data-Oriented Design
 https://www.dataorienteddesign.com/dodbook/node2.html
 
