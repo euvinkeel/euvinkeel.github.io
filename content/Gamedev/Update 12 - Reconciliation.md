@@ -10,8 +10,6 @@ everything here is a result of the following:
 
 ![[RobloxStudioBeta_bGZis13oA3.gif]]
 
-![[RobloxStudioBeta_MkbtzZsnm5.gif]]
-
 ---
 
 Most of this week was thinking about how to handle general reconciliation.
