@@ -124,13 +124,13 @@ export const setup_template_component_hooks = () => {
 	// must be called before all game systems
 	rt.world.set(rt.cps.S_T_Template, OnSet, (entity: LocalID) => {
 		const templateCode = rt.world.get(entity, rt.cps.S_T_Template);
-		assert(templateCode !== undefined, "Template OnAdd: templateCode is undefined");
 		templateCodeToFunction[templateCode as TemplateCode](entity);
 	});
 }
 
 export enum TemplateCode {
 	Slime = 0,
+	// could have other template methods here as well
 }
 
 export const templateCodeToFunction: Record<TemplateCode, (entity: LocalID) => void> = {
@@ -149,7 +149,7 @@ export const templateCodeToFunction: Record<TemplateCode, (entity: LocalID) => v
 }
 ```
 
-So whether something is spawned via server-side action call, client-side action call, server-side action replay, or client-side applying a diff, the presence of a `S_T_Template` will always ensure an entity gets populated before other game systems can react/edit them.
+So whether something is spawned via server-side action call, client-side action call, server-side action replay, or client-side applying a diff, the presence of an explicit `S_T_Template` component will always ensure an entity gets populated before other game systems can react/edit them.
 
 And it works pretty well!
 
