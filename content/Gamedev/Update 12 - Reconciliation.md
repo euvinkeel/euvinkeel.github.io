@@ -119,6 +119,20 @@ because the real important component to look for is the `S_T_Template` component
 The template function can just look at the JECS state of the entity it's on to infer everything else, even defining client-side or server-side logic:
 
 ```ts
+export const setup_template_component_hooks = () => {
+	// JECS hooks run *immediately*
+	// must be called before all game systems
+	rt.world.set(rt.cps.S_T_Template, OnSet, (entity: LocalID) => {
+		const templateCode = rt.world.get(entity, rt.cps.S_T_Template);
+		assert(templateCode !== undefined, "Template OnAdd: templateCode is undefined");
+		templateCodeToFunction[templateCode as TemplateCode](entity);
+	});
+}
+
+export enum TemplateCode {
+	Slime = 0,
+}
+
 export const templateCodeToFunction: Record<TemplateCode, (entity: LocalID) => void> = {
 	[TemplateCode.Slime]: (entity: LocalID) => {
 		if (IS_CLIENT) {
