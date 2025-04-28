@@ -9,7 +9,7 @@ draft: true
 
 * i have to choose a stack to get familiar with and good at to actually start making stuff
 * how to best learn things at depth? can i?
-	* am i able to do mini projects and explorations to count as "having learned it"? deep bottemless holes of things to discover?
+	* am i able to do mini projects and explorations to count as "having learned it"? deep bottomless holes of things to discover?
 
 
 * make it really easy to collaborate on a tiny animation sketch (maybe like 10 seconds at most), 24 fps max
