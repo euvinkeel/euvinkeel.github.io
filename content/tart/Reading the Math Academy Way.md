@@ -11,6 +11,10 @@ I even had my own demo website up and running, though a lot of effort was spent 
 
 At one point, it occurred to me that I should really be investigating the actual specifics of what MathAcademy does for their algorithm. And so for the past few days, I've been reading "The Math Academy Way": https://docs.google.com/document/d/1LLZK_34Oer9LwuqAv-pqxfXlR8n7V8zJ_MO323R7egI/edit?tab=t.0#heading=h.6pzpmilj161j
 
+and have naturally been taking even more notes
+
+![[Pasted image 20250429150308.png]]
+
 Aside from all the (very true) ramblings about how screwed the educational institutions are, I gleamed some valuable insights. As an Anki user, one thing I that I've overlooked all this time was that Anki treats flashcards as an unsorted set of independent, unconnected pieces of info. The FSRS algorithm they use seems to treat each card that way - a success on one card sets it aside for later, and other cards independently manage their own forgetting curve.
 
 So when I read about the "Fractional Implicit Repetition" system MA (MathAcademy) uses, it inspired me to re-think the TART system I've been ideating for the past few weeks.
