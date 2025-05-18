@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "052511502deca614",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d4ee26ae00dd3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b579639b09e7b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tart/Reading the Math Academy Way.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reading the Math Academy Way"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "969ff43691827ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "be40f7e8928aecdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ff6824a259ad69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ddac9c7030804fb0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "auxiliary",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54e5dbe2b8f5b0c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "e79a514d968a1aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5ba0ec7b9813842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59374fc9f2326624",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tango.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tango"
+            }
+          },
+          {
+            "id": "0d12c2d4cc5f05f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tango.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tango"
+            }
+          },
+          {
+            "id": "9da3ac7feb6dbc8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1f0f013ef84a2b53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tango.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tango"
+            }
+          },
+          {
+            "id": "a61df2577f303928",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "fd30d4b64df157dd",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
+    }
+  },
+  "active": "0b579639b09e7b93",
+  "lastOpenFiles": [
+    "Pasted image 20250429150308.png",
+    "Pasted image 20250429144454.png",
+    "Pasted image 20250429144148.png",
+    "tart/Idea.md",
+    "tart/Reading the Math Academy Way.md",
+    "resources/Resources.md",
+    "index.md",
+    "Nix.md",
+    "notes.md",
+    "webrkgk/webrkgk - Idea.md",
+    "Gamedev/Update 12 - Reconciliation.md",
+    "Gamedev/Update 13 - nothing.md",
+    "Gamedev/Idea.md",
+    "misc/LinkedIn Math.md",
+    "misc/Building vs Learning.md",
+    "misc/Gaslighting At Scale.md",
+    "Pasted image 20250416133801.png",
+    "Pasted image 20250416133739.png",
+    "tart",
+    "Untitled.md",
+    "Gamedev/Update 11.md",
+    "RobloxStudioBeta_bGZis13oA3.gif",
+    "RobloxStudioBeta_MkbtzZsnm5.gif",
+    "RobloxStudioBeta_J74QME5w3v 1.gif",
+    "RobloxStudioBeta_J74QME5w3v.gif",
+    "RobloxStudioBeta_nruDLa2Nqq.gif",
+    "RobloxStudioBeta_i2gRLfMr6i.gif",
+    "Gamedev/Update 10.md",
+    "Gamedev/Update 9.md",
+    "Gamedev/Update 8.md",
+    "Gamedev/Update 7.md",
+    "Gamedev/Update 6 - Replication Notes.md",
+    "Gamedev/Update 5 - Roadmap.md",
+    "Untitled 1.md",
+    "tango/Progress Update 9.md",
+    "tango/Progress Update 10.md",
+    "Gamedev/Update 4 - Setup.md",
+    "Gamedev",
+    "art",
+    "webrkgk",
+    "ai-ml",
+    "misc",
+    "resources",
+    "tango",
+    "Past.encrypted",
+    "Untitled.canvas"
+  ]
+}
