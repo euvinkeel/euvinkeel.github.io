@@ -1,5 +1,8 @@
 Random videos or articles I read and learn from.
 
+# You Are Not Dumb, You Just Lack the Prerequisites
+https://lelouch.dev/blog/you-are-probably-not-dumb/
+
 # The Math Academy Way
 https://docs.google.com/document/d/1LLZK_34Oer9LwuqAv-pqxfXlR8n7V8zJ_MO323R7egI/edit?tab=t.0
 
