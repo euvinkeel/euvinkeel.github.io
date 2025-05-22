@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tart/Traversing Knowledge Graphs.md",
+                "file": "resources/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traversing Knowledge Graphs"
+              "title": "Resources"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "a247f5024517e32a",
   "lastOpenFiles": [
-    "tart/Rethinking how I take notes.md",
     "tart/Traversing Knowledge Graphs.md",
+    "tart/Rethinking how I take notes.md",
     "Pasted image 20250518130152.png",
     "Pasted image 20250518125857.png",
     "Pasted image 20250518125427.png",
