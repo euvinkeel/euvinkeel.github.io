@@ -8,7 +8,7 @@ Now, one of their selling points was how it lends itself to connecting your know
 
 ![[Pasted image 20250518130152.png]]
 
-And I didn't like how making connections forced you to go into one of the pages to type in the name of the related topic you want as a wiki link. It makes sense, but I wanted a more structured and flow-chart view of things. I wanted to just drag and click to make an edge without typing, and specify encompassing weights (as discussed in the FIRe algorithm in [[Reading the Math Academy Way]]).
+And I didn't like how making connections forced you to go into one of the pages to type in the name of the related topic you want as a wiki link. It makes sense, but I wanted a more structured and flow-chart view of things. I wanted to just drag and click to make an edge without typing, and specify encompassing weights (as discussed in the FIRe algorithm in [[2 - Reading the Math Academy Way]]).
 
 Then I learned about a feature I never ended up using: canvases! Turns out that it was a perfect fit.
 
