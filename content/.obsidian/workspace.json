@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/Resources.md",
+                "file": "tart/TART v0.0.1 Demo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "TART v0.0.1 Demo"
             }
           }
         ]
@@ -187,23 +187,27 @@
   },
   "active": "a247f5024517e32a",
   "lastOpenFiles": [
-    "tart/Traversing Knowledge Graphs.md",
+    "Pasted image 20250531145049.png",
+    "Pasted image 20250531143838.png",
+    "Pasted image 20250531143825.png",
+    "Pasted image 20250531143819.png",
+    "tart/What I think learning is.md",
+    "tart/TART v0.0.1 Demo.md",
+    "tart/Rethinking Encompassing Weights.md",
     "tart/Rethinking how I take notes.md",
+    "tart/Reading the Math Academy Way.md",
+    "tart/Traversing Knowledge Graphs.md",
+    "resources/Resources.md",
     "Pasted image 20250518130152.png",
     "Pasted image 20250518125857.png",
     "Pasted image 20250518125427.png",
     "Pasted image 20250518125036.png",
     "Pasted image 20250518124930.png",
     "Pasted image 20250518124827.png",
-    "tart/Reading the Math Academy Way.md",
     "tart/Idea.md",
-    "resources/Resources.md",
     "webrkgk/webrkgk - Idea.md",
     "webrkgk",
     "vivaldi_zOl4sgg90p.gif",
-    "vivaldi_yNJpKutBnf.gif",
-    "vivaldi_sco0EwrCL1.gif",
-    "vivaldi_oNjjbcA9gw.gif",
     "tart",
     "tango/Tango - Reflection.md",
     "tango/Progress Update 9.md",
@@ -225,10 +229,6 @@
     "misc",
     "Past.encrypted",
     "Nix.md",
-    "Gamedev/Update 6 - Replication Notes.md",
-    "Gamedev/Update 9.md",
-    "Gamedev/Update 5 - Roadmap.md",
-    "Gamedev/Update 8.md",
     "Gamedev",
     "art",
     "ai-ml",
