@@ -26,7 +26,7 @@ Would there? Maybe people's standards are shockingly low for what learning resou
 
 And I certainly don't need people to pay me to motivate myself to create this system, because I have a strong hunger for not just a better learning experience, but also a better automatic memory retention system.
 
-If I could somehow redirect the time and effort spent into writing my own Obsidian notes + linking those pages + adding to my Anki decks... redirecting them into a more natural, interconnected way of encoding my learnings, into the TART system... maybe that'd be a worthwhile goal.
+If I could somehow redirect the time and effort spent into writing my own Obsidian notes + linking those pages + adding to my Anki decks --redirecting them into a more interconnected way of encoding my learnings, into the TART system-- maybe that'd be a worthwhile goal.
 
 One thing I'm still unsure of is how I'd shift from creating cards/writing down stuff into actually making skill-based tests. I think that's a really good way to test and develop active recall, but it would also be way more complex to define what essentially amounts to a mini-game than it is to create a card you passively read from.
 
