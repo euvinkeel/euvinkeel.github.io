@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - tart/2 - Reading the Math Academy Way.md",
+                "file": "2 - Gamedev/Update 13 - nothing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Reading the Math Academy Way"
+              "title": "Update 13 - nothing"
+            }
+          },
+          {
+            "id": "05ed5e800bbdfa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Gamedev/Update 14 - revival.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Update 14 - revival"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,14 +200,18 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "a247f5024517e32a",
+  "active": "05ed5e800bbdfa6f",
   "lastOpenFiles": [
+    "DiscordPTB_kKTxNLwJLc.gif",
+    "2 - Gamedev/Update 13 - nothing.md",
+    "2 - Gamedev/Update 12 - Reconciliation.md",
+    "2 - Gamedev/Update 14 - revival.md",
+    "1 - tart/2 - Reading the Math Academy Way.md",
     "1 - tart/3 - Rethinking how I take notes.md",
     "1 - tart/7 - TART v0.0.1 Demo.md",
     "1 - tart/6 - What I think learning is.md",
     "1 - tart/5 - Rethinking Encompassing Weights.md",
     "1 - tart/4 - Traversing Knowledge Graphs.md",
-    "1 - tart/2 - Reading the Math Academy Way.md",
     "1 - tart/1 - Idea.md",
     "Pasted image 20250531145049.png",
     "Pasted image 20250531143838.png",
@@ -223,11 +242,8 @@
     "0 - resources",
     "notes.md",
     "misc/LinkedIn Math.md",
-    "misc/Gaslighting At Scale.md",
-    "misc/Building vs Learning.md",
     "misc",
     "Past.encrypted",
-    "Nix.md",
     "2 - Gamedev",
     "art",
     "ai-ml",

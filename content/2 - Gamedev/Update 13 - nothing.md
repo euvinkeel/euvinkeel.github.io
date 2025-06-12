@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 Some unexpected emergency happened and it just sapped my energy to create or make anything while dealing with it.
